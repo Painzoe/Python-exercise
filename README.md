@@ -17,4 +17,4 @@ input: 6
 
 Output: 
 
-![](images/diamond.example.png)
+![](image/diamond.example.png)
